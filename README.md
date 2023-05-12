@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I'm Luca, a master's degree student in 🧑‍💻 Computer Science and Engineering at [Polimi](https://polimi.it), Italy 🇮🇹!
+I'm Luca, a 🧑‍💻 Computer Science and Engineering graduate from [Polimi](https://polimi.it), Italy 🇮🇹!
 
 :boy: **About me:**
- - I'm currently working on my master's thesis
  - Strongly in love with small details, theory behind practice and algorithms
  - I'm always looking forward to improving my skills
 
 :mortar_board: **Education:**
- - Master of Science in Computer Science and Engineering at `Politecnico di Milano` - (in progress)
+ - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Science and Engineering at `Politecnico di Milano`
 
 
